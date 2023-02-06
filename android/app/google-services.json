@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772216416289",
+    "project_id": "filkhear",
+    "storage_bucket": "filkhear.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772216416289:android:758ad98c8a2cc16e6cdb60",
+        "android_client_info": {
+          "package_name": "com.filkhear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772216416289-grshihgjd2fvpobglur3rgqct1ktds7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFRLM8fCUv9JqRbXTezvL2iY3k84ljG_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772216416289-grshihgjd2fvpobglur3rgqct1ktds7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
